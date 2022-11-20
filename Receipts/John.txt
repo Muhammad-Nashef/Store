@@ -1,0 +1,23 @@
+					-- Order receipt 1--
+
+Date:8/10/2022
+Customer: John
+Phone Number : 0509827654
+Customer email : john1@gmail.com
+
+
+Product                         Price                  Quantity                      Total price
+
+Pizza                          19.90                        33                            165.00
+Tomato                         8.99                         7                              48.99
+Milk                           14.00                        10                             44.00
+Cucumber                       10.00                        20                             78.00
+Potato                         5.50                         9                              37.00
+Pasta                          11.90                        14                             59.80
+Gelato                         89.90                        20                            605.80
+
+
+Total : 1038.59
+Credit card : *****4321
+
+					Thank you have a nice day!
